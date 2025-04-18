@@ -1,0 +1,14 @@
+.task-form h2 {
+  font-size: 1.5rem;
+}
+.task-form input,
+.task-form textarea {
+  width: 100%;
+  padding: 0.7rem;
+  font-family: inherit;
+  color: #fff;
+}
+.task-form textarea {
+  min-height: 100px;
+  resize: vertical;
+}
